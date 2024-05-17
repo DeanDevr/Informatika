@@ -14,4 +14,3 @@ function appendToDisplay(value) {
                                             document.getElementById("display").value = "Error";
                                                 }
                                                 }
-}
